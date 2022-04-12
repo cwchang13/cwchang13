@@ -5,8 +5,14 @@
 
 
 ### 🛠️ GitHub Analytics
+<!---
 ![cwchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwchang13&show_icons=true&card_width=300&theme=gruvbox_light)
 ![cwchang's Language stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=cwchang13&layout=compact&card_width=300)
+--->
+
+| **SUMARY**| **LANGUAGES**|
+| --------- | ------------ |
+| ![cwchang's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwchang13&show_icons=true&theme=gruvbox_light)|![cwchang's Language stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=cwchang13&layout=compact)|
 
 
 
